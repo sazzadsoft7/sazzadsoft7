@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Sazzadul Islam
 #### Web Developer
-![Web Developer](https://www.canva.com/design/DAGgvZG0pB4/rKisQk7P0ZsNpa6UzIp86g/edit?utm_content=DAGgvZG0pB4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 🚀 Full Stack Developer | React.js | Next.js | Node.js | Express.js | MongoDB
 Hi there! I'm a passionate Full Stack Developer with expertise in React.js, Next.js, Node.js, Express.js, and MongoDB. I love building scalable web applications, optimizing performance, and creating seamless user experiences.
@@ -39,7 +38,7 @@ Skills: Full Stack Developer I React JS I Next JS I Node JS I Express JS I Mongo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadsoft7)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sazzadsoft7&show_icons=true&count_private=true)  
+ 
 
   
 
