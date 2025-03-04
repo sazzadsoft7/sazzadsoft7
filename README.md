@@ -41,5 +41,5 @@ Skills: Full Stack Developer I React JS I Next JS I Node JS I Express JS I Mongo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sazzadsoft7&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sazzadsoft7/contributions?format=svg&private=true)  
+  
 
