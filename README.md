@@ -1,8 +1,6 @@
-https://private-user-images.githubusercontent.com/91826108/256272617-1917daae-6ed6-4a60-8174-b4762d44a63a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMxMjgwNzIsIm5iZiI6MTc0MzEyNzc3MiwicGF0aCI6Ii85MTgyNjEwOC8yNTYyNzI2MTctMTkxN2RhYWUtNmVkNi00YTYwLTgxNzQtYjQ3NjJkNDRhNjNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI4VDAyMDkzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmMWE2YTgyMmU2YTkxNmZjYjcxOGI2ODc1NTMwZTYxM2VkNzQzOWE3YWE2OTVhNDAyMGUyZjM0OWZkNWQwM2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xPkP9c7nISCOSaLxuigI_RwvfeB7e4E7oFobVsmb3nA
-
 
 ### Hi there 👋, I'm Sazzadul Islam
-#### Web Developer
+#### Software Developer
 
 🚀 Full Stack Developer | React.js | Next.js | Node.js | Express.js | MongoDB
 Hi there! I'm a passionate Full Stack Developer with expertise in React.js, Next.js, Node.js, Express.js, and MongoDB. I love building scalable web applications, optimizing performance, and creating seamless user experiences.
